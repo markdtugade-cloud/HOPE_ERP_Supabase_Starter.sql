@@ -1,0 +1,1 @@
+# HOPE_ERP_Supabase_Starter.sql
